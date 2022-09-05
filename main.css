@@ -37,12 +37,12 @@ main{
     display:flex;
     justify-content: space-around;
    /* align-items: center; */
-   padding:1rem;
+   padding-right:1rem;
    flex-wrap: wrap;
 }
 .movie
 {
-    width:350px;
+    width:380px;
     height:600px;
     overflow: hidden;
     background-color: #373b69;
