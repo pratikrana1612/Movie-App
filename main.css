@@ -61,10 +61,14 @@ main{
 }
 .movie .movie_info
 {
+    height:20%;
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding:2rem;
+}
+.movie .movie_info h3{
+    margin:0;
+    width:70%;
 }
 .movie .movie_info span{
     background-color:#22254b;
