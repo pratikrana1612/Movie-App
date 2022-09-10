@@ -55,7 +55,7 @@ main{
 {
     width:100%;
     height:80%;
-    background: url(img.jpg);
+    /* background: url(img.jpg); */
     background-position: center;
     background-size: cover;
 }
